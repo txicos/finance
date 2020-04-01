@@ -2,7 +2,7 @@
 
 Ideas on algorithms to be used for trading advisory
 
-1. [Hilo bolling Bands %](README.md#1-HiloBB)
+1. [Hilo Bollinger Bands %B](README.md#1-HiloBB)
 
 
 
